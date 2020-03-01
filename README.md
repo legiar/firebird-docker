@@ -1,5 +1,8 @@
 # Firebird 2.0 Dockerfile
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/legiar/firebird.svg)](https://hub.docker.com/r/legiar/firebird/)
+[![Docker Stars](https://img.shields.io/docker/stars/legiar/firebird.svg)](https://hub.docker.com/r/legiar/firebird/)
+
 ## Description
 
 ### Provides
